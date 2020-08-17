@@ -5,7 +5,7 @@ class Goods extends React.Component {
         return (
             <div>goods</div>
         )
-    }
+    } 
 }
  
 export default Goods
